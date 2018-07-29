@@ -1,0 +1,9 @@
+{
+  "name": "@geo1088/eslint-config",
+  "version": "1.0.0",
+  "description": "My personal ESLint config rules.",
+  "main": ".eslintrc.js",
+  "repository": "https://github.com/Geo1088/eslint-config",
+  "author": "Geo1088 <georgej1088@gmail.com> (https://geo1088.github.io)",
+  "license": "MIT"
+}
