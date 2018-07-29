@@ -10,7 +10,6 @@
 		"semi": ["error", "always"],
 		"no-console": "off",
 		"no-constant-condition": ["error", {"checkLoops": false}],
-		"no-extra-parens": ["error", "all"],
 		"no-template-curly-in-string": "warn",
 		"valid-jsdoc": ["warn", {
 			"prefer": {
