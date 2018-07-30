@@ -35,7 +35,6 @@
 		"no-extra-bind": "error",
 		"no-floating-decimal": "error",
 		"no-loop-func": "error",
-		"no-magic-numbers": "error",
 		"no-param-reassign": "error",
 		"no-throw-literal": "error",
 		"no-useless-call": "error",
