@@ -156,7 +156,7 @@
 		"no-ex-assign": "error",
 		"no-extra-boolean-cast": "error",
 		"no-extra-label": "error",
-		"no-extra-parens": ["error", {"conditionalAssign": false}],
+		"no-extra-parens": ["error", "all", {"conditionalAssign": false}],
 		"no-extra-semi": "error",
 		"no-fallthrough": "error",
 		"no-func-assign": "error",
