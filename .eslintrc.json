@@ -91,7 +91,7 @@
 		"block-scoped-var": "error",
 		"block-spacing": "error",
 		"callback-return": "error",
-		"camelcase": "error",
+		"camelcase": ["error", {"properties": "never"}],
 		"capitalized-comments": "off",
 		"complexity": "off", // TODO
 		"consistent-return": "warn",
@@ -230,7 +230,7 @@
 		"no-unsafe-negation": "error",
 		"no-unused-expressions": ["error", {"allowShortCircuit": true}],
 		"no-unused-labels": "error",
-		"no-unused-vars": "error",
+		"no-unused-vars": ["error", {"argsIgnorePattern": "^_"}],
 		"no-use-before-define": "error",
 		"no-useless-concat": "error",
 		"no-useless-escape": "error",
