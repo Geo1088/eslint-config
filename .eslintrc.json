@@ -259,7 +259,7 @@
 		"space-in-parens": "error",
 		"space-infix-ops": "error",
 		"space-unary-ops": "error",
-		"strict": ["error", "never"],
+		"strict": "error",
 		"switch-colon-spacing": "error",
 		"symbol-description": "error",
 		"template-tag-spacing": "error",
