@@ -22,7 +22,9 @@
 			},
 			"requireReturn": false,
 			"requireReturnType": true,
-			"requireParamType": true
+			"requireReturnDescription": false,
+			"requireParamType": true,
+			"requireParamDescription": false
 		}],
 		"accessor-pairs": "warn",
 		"array-callback-return": "error",
