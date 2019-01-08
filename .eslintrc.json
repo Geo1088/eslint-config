@@ -94,7 +94,7 @@
 		"camelcase": ["error", {"properties": "never"}],
 		"capitalized-comments": "off",
 		"complexity": "off", // TODO
-		"consistent-return": "warn",
+		"consistent-return": "off",
 		"consistent-this": "off",
 		"constructor-super": "error",
 		"default-case": "error",
