@@ -1,6 +1,6 @@
 {
   "name": "@geo1088/eslint-config",
-  "version": "3.0.9",
+  "version": "3.0.10",
   "description": "My personal ESLint config rules.",
   "main": ".eslintrc.json",
   "repository": "https://github.com/Geo1088/eslint-config",
