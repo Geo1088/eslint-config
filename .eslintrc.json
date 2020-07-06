@@ -7,6 +7,9 @@
 		"es6": true,
 		"node": true
 	},
+	"plugins": [
+		"new-with-error"
+	],
 	"rules": {
 		"indent": ["error", "tab", {"SwitchCase": 1}],
 		"quotes": ["error", "single", {"avoidEscape": true}],
@@ -268,6 +271,8 @@
 		"valid-typeof": "error",
 		"vars-on-top": "off", // TODO
 		"wrap-regex": "off",
-		"yoda": ["error", "never", {"onlyEquality": true}]
+		"yoda": ["error", "never", {"onlyEquality": true}],
+
+		"new-with-error/new-with-error": "error"
 	}
 }
